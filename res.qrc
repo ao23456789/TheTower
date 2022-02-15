@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/beijing.jpg</file>
+        <file>res/Character.jpg</file>
+        <file>res/tower.jpg</file>
+        <file>res/door&amp;key.jpg</file>
+        <file>res/moster.jpg</file>
+        <file>res/attack_type.jpg</file>
+        <file>res/mine.bmp</file>
+        <file>res/attackElementType.bmp</file>
+        <file>res/treasure.bmp</file>
+    </qresource>
+</RCC>
